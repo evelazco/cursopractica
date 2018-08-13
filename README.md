@@ -1,0 +1,2 @@
+# cursopractica
+Repositorio de prueba
